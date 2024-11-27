@@ -10,7 +10,7 @@ A simple and customizable **Password Generator** built using **React**. This app
 ---
 
 ## Demo 🖥️
-![Password Generator Screenshot](/images/pg-two.png)  
+![Password Generator Screenshot](./images/pg-two.png)  
 *Screenshot of the Password Generator UI*  
 
 ---
